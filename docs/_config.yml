@@ -1,0 +1,18 @@
+# This theme is based on https://github.com/jekyll/minima
+# Please refer above link to know the available configurations
+
+title: "Interactive Exhibition Map Peraverse"
+remote_theme: cepdnaclk/eYY-project-theme
+description: "The Interactive Exhibition Map Dashboard is a web-based system that helps visitors easily find buildings, exhibits, and services inside an exhibition space."
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Enable mermaid diagrams
+mermaid:
+  enabled: true
