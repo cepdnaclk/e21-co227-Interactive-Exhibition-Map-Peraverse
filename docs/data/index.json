@@ -1,0 +1,39 @@
+{
+    "visibility" : true,
+    "title": "Interactive Exhibition Map Peraverse",
+    "description": "The Interactive Exhibition Map Dashboard is a web-based system that helps visitors easily find buildings, exhibits, and services inside an exhibition space.",
+    "team": [
+        {
+            "name": "ZAID M.Z.M.",
+            "email": "e21452@eng.pdn.ac.lk",
+            "eNumber": "E/21/452"
+        },
+        {
+            "name": "THIRUMENAN S.",
+            "email": "e21412@eng.pdn.ac.lk",
+            "eNumber": "E/21/412"
+        },
+        {
+            "name": "RINOS R.M..",
+            "email": "e21336@eng.pdn.ac.lk",
+            "eNumber": "E/21/336"
+        },
+        {
+            "name": "RAYID A.H.M.",
+            "email": "e21335@eng.pdn.ac.lk",
+            "eNumber": "E/21/335"
+        },
+        {
+            "name": "FAZLY M.F.M.",
+            "email": "e21130@eng.pdn.ac.lk",
+            "eNumber": "E/21/130"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Ms. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": []
+}
